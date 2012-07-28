@@ -1,0 +1,7 @@
+
+fixa så man kan sätta antal liv.
+
+fixa så man kan sätta star score.
+
+
+
